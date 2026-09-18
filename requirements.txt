@@ -1,1 +1,1 @@
-aiohttp
+# v2.0 起仅使用 Python 标准库（urllib / http.cookiejar），无需安装任何第三方依赖
